@@ -1,0 +1,16 @@
+/**
+ * @name MakeSmallBig
+ * @author Grapune
+ * @version 1.0.0
+ * @description Makes Small Text Normal Sized
+*/
+
+/* To note this is the only theme I've made ever so if you're aware of any better way to implement this please do let me know */
+
+/* note: without the !important property this only changes the size of replies */
+small {
+  font-size: 100% !important;
+  
+  /*color: oklab(0.906424 -0.000235766 -0.0028885) !important;*/
+  /* the line above changes the small text's color to be the same as discord's default ash text color. but this would fuck up every other style so its off*/
+}
