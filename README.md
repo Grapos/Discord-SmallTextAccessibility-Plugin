@@ -2,7 +2,7 @@
 <h2>What does this do?</h2>
 <p>
   It's exactly what it says on the tin!
-  Any text formatted to be small, made by starting a message with <i>-# </i>, will now be the same size as nomral text - though the text will retain its greyness (see CSS file for changing this).
+  Any text formatted to be small, made by starting a message with <i>-# </i>, will now be the same size as normal text - though the text will retain its greyness (see CSS file for changing this).
 </p>
 <br>
 <img width="374" height="86" alt="image" src="https://github.com/user-attachments/assets/bf0679f7-33d5-48f7-bf41-9e723ac19643" />
