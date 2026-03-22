@@ -12,5 +12,5 @@
 </p>
 <h2>Additional Note</h2>
 <p>
-  While this is a pretty simple I'm pretty new to making this sort of things, so if anyone is aware of a better implementation of this feature or there's something I missed in terms of compatibilty do let me know!
+  I'm pretty new to making this sort of things, so if anyone is aware of a better implementation of this feature or there's something I missed in terms of compatibilty do let me know!
 </p>
